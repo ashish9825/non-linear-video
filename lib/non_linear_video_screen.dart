@@ -1,10 +1,10 @@
 import 'package:chewie/chewie.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:non_linear_video/app/bloc/video_load_bloc.dart';
-import 'package:non_linear_video/app/widgets/analysing_indicator.dart';
-import 'package:non_linear_video/app/widgets/emotions_dialog.dart';
-import 'package:non_linear_video/app/widgets/error_message_widget.dart';
+import 'package:non_linear_video/bloc/video_load_bloc.dart';
+import 'package:non_linear_video/widgets/analysing_indicator.dart';
+import 'package:non_linear_video/widgets/emotions_dialog.dart';
+import 'package:non_linear_video/widgets/error_message_widget.dart';
 import 'package:non_linear_video/utils/constants.dart';
 // ignore: depend_on_referenced_packages
 import 'package:video_player/video_player.dart';
