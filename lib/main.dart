@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:non_linear_video/bloc/non_linear_video_app.dart';
+import 'package:non_linear_video/pages/non_linear_video_app.dart';
 
 void main() {
   runApp(const MyApp());

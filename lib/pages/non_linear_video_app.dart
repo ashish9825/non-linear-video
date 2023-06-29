@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:non_linear_video/non_linear_video_screen.dart';
+import 'package:non_linear_video/pages/non_linear_video_screen.dart';
 
 class NonLinearVideoApp extends StatelessWidget {
   const NonLinearVideoApp({super.key});
