@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.non_linear_video">
+   <uses-permission android:name="android.permission.INTERNET" />
    <application
         android:label="non_linear_video"
         android:name="${applicationName}"
